@@ -1,4 +1,4 @@
-# Poonam Singh — ITSM | ServiceNow AI | Automation Portfolio
+#ITSM | ServiceNow AI | Automation Portfolio
 
 I design and implement **AI‑driven, automation‑enabled, and analytics‑backed ITSM solutions** that improve service delivery, reduce manual workload, and enhance SLA performance.
 
@@ -18,5 +18,5 @@ End‑to‑end ITSM analytics dashboard that reduced SLA breaches by 20% and imp
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/poonam-singh-66a2a54  
-- **Email:** poonamsgh03@gmail.com# --poonamsgh03.github.io
+- **LinkedIn:** www.linkedin.com/in/poonamsingh03 
+- **Email:** poonamsgh03@gmail.com
