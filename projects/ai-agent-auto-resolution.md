@@ -31,8 +31,7 @@ This project provides intelligent triage without requiring AI Agent licensing.
 
 ## Architecture Diagram
 
-
-![AI Agent–Inspired Architecture](docs/architecture-diagram.png)
+![AI Agent–Inspired Architecture](../docs/architecture-diagram.png)
 
 ---
 
