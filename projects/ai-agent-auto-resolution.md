@@ -1,7 +1,8 @@
 # AI Agent–Inspired Incident Triage Engine
 *Intelligent ITSM triage using Flow Designer, Predictive Intelligence simulation, KB lookup, and Virtual Agent integration (Zurich Release)*
+
 <p align="center">
-  <img src="../assets/ AI-Agent Inspired_P1.png" width="450">
+  <img src="../assets/AI-Agent Inspired_P1.png" width="450">
 </p>
 
 ---
