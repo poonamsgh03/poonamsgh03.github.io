@@ -6,8 +6,14 @@ My work blends **ServiceNow AI Agents, machine learning, workflow automation, RP
 
 ## 📌 Featured Projects
 
-### 1. [ServiceNow AI Agent for Incident Auto‑Resolution](./projects/ai-agent-auto-resolution.md)
-AI‑driven L1 support that reduced manual workload by 40% and accelerated response time by 60%.
+### 1️⃣ AI Agent–Inspired Incident Triage Engine (Zurich Release)
+[View project details →](./projects/ai-agent-triage.md)
+![AI Agent–Inspired Incident Triage Engine](./assets/project-thumbnail.png)
+
+- Simulated Predictive Intelligence using a Flow Designer scoring engine  
+- Automated KB lookup and AI-style suggestions via Contextual Search  
+- Virtual Agent topic that creates incidents and triggers the triage flow  
+- 40% reduction in manual triage workload and faster routing
 
 ### 2. [ITSM Ticket Categorization ML Model](./projects/ml-ticket-categorization.md)
 Machine learning model achieving 85%+ accuracy in auto‑categorizing incidents and reducing misrouting.
